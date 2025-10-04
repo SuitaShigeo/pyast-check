@@ -1,0 +1,5 @@
+"""Constants."""
+
+MAX_RETRIES = 3
+
+TIMEOUT = 30
