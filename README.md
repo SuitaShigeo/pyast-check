@@ -4,8 +4,10 @@ Python AST 分析ツールキット。コードの構造を AST レベルで解�
 
 ## Installation
 
+PyPI には未公開のため、GitHub から直接インストールする。
+
 ```bash
-pip install pyast-check
+pip install git+https://github.com/SuitaShigeo/pyast-check.git
 ```
 
 ## サブコマンド一覧

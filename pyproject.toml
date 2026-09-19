@@ -9,7 +9,7 @@ description = "Python AST analysis toolkit"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
-authors = [{ name = "win" }]
+authors = [{ name = "SuitaShigeo" }]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
